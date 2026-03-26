@@ -1,18 +1,18 @@
 # Study Time Predictor (AIML Project)
 
-## 📌 Overview
+## Overview
 This project is a simple machine learning application that predicts how many hours a student should study daily based on different factors.
 
 It is developed as part of a first-year AIML course project.
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 Many students struggle to decide how much time they should spend studying before exams. This project aims to provide a basic solution by predicting study hours using simple input values.
 
 ---
 
-## 🎯 Objective
+## Objective
 To build a machine learning model that recommends study hours based on:
 - Number of subjects
 - Difficulty level
