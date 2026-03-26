@@ -20,14 +20,14 @@ To build a machine learning model that recommends study hours based on:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - Scikit-learn  
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. A small dataset is created manually.
 2. A Linear Regression model is trained on the dataset.
 3. The user enters input values.
@@ -35,7 +35,7 @@ To build a machine learning model that recommends study hours based on:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Install required libraries:
 ```
@@ -56,7 +56,7 @@ python main.py
 
 ---
 
-## 📊 Example
+## Example
 
 Input:
 Subjects: 3  
@@ -68,21 +68,21 @@ Recommended Study Hours: 3.5 (approx)
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - Dataset is very small  
 - Predictions may not be highly accurate  
 - Model is basic and for learning purpose only  
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 - Use larger dataset  
 - Add graphical interface  
 - Improve accuracy with better models  
 
 ---
 
-## 📚 Learning Outcome
+## Learning Outcome
 Through this project, I learned:
 - Basics of Machine Learning  
 - How to use Linear Regression  
@@ -91,5 +91,8 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
-First Year AIML Student
+## Author
+First Year AIML Student- MANU SINGH (25BAI10968)
+
+## Screen-Shots(Output)
+![image alt](https://github.com/Manu-Singh-30/study-time-predictor-byop/blob/69e9a62876fca12d33bd755359def330ef9ba5fb/byop-project-ss.jpeg)
